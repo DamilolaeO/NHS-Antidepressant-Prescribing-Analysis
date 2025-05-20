@@ -4,8 +4,9 @@
 
 This project explores national and regional antidepressant prescription patterns using NHS data (2021–2024). It was developed in response to a real-world public health challenge and uses R to analyse trends in prescribing **volume**, **cost**, and **drug-level behaviour** over time. The analysis includes data wrangling, interactive visualisation, and summary insight reporting using R Markdown and `highcharter`.
 
-*Live Interactive Report:* 
-[Click here to view the full HTML report] (https://damilolaeo.github.io/NHS-Antidepressant-Prescribing-Analysis/)
+*Click the link below to view the interactive report*: 
+https://damilolaeo.github.io/NHS-Antidepressant-Prescribing-Analysis/
+
 ---
 
 ## **Objective**
