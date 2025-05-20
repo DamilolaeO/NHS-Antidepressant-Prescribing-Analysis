@@ -113,7 +113,7 @@ The data used in this project comes from the NHSBSA Open Data Portal, specifical
 
 ---
 
-## 👩️‍💻 **Author**
+## **Author**
 
 **Damilola Ogungbemi**
 MSc Biotechnology | Data Scientist | *Passionate about using data for public good in healthcare and policy*.
