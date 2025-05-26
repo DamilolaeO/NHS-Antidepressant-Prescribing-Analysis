@@ -104,8 +104,8 @@ This analysis supports NHS strategic planning by:
 * `NHS_prescribing_analysis.R`: Full R Markdown analysis script
 * `NHS_AD_prescribing_report index.html`: Interactive knitted report
 * `README.md`: Project documentation
-* EXTENSION_SET_UP_REGIONAL_ANTIDEPRESSANTS.Rds: Extension Dataset
-* SET_UP_REGIONAL_ANTIDEPRESSANTS.Rds: Primary Dataset
+* `EXTENSION_SET_UP_REGIONAL_ANTIDEPRESSANTS.Rds`: Extension Dataset
+* `SET_UP_REGIONAL_ANTIDEPRESSANTS.Rds`: Primary Dataset
 
 
 ---
